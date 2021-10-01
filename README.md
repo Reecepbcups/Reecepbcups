@@ -13,7 +13,7 @@ class Reece:
         self.aquired = {
             'degrees': [('A.S of Science', "2 years"), ('B.S of IT', "6 months")],
             'frontend': ['HTML', 'CSS', 'JavaScript'],
-            'backend': ['Python', 'Java', 'Shell'],
+            'backend': ['Python', 'Java', 'NodeJS', 'Shell'],
             'database': ['MySQL', 'SQLite3', 'Redis'],
             'devops': ['Docker', 'Nginx', 'Apache'],
             'tools': ['GIT', 'GitHub'],
