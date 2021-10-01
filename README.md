@@ -11,7 +11,7 @@ class Reece:
         self.web = 'https://reece.sh'
         self.twitter = '@reecepbcups_'
         self.aquired = {
-            'degrees': [('A.S of Science', "2 years"), ('B.S of IT', "6 months")]
+            'degrees': [('A.S of Science', "2 years"), ('B.S of IT', "6 months")],
             'frontend': ['HTML', 'CSS', 'JavaScript'],
             'backend': ['Python', 'Java', 'Shell'],
             'database': ['MySQL', 'SQLite3', 'Redis'],
