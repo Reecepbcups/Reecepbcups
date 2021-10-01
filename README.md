@@ -5,9 +5,6 @@
 ## Python, Java, MySQL, and Shell. 
 I have an A.S. in Information Technology (2 years), and currently working on finishing my Bachelors in IT (6 Months).
 
-<!-- Experience
-![Test Image 4](https://i.imgur.com/4lpoSOV.png) -->
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reecepbcups&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ```python
@@ -18,7 +15,8 @@ class Reece:
         self.name = 'Reece W'
         self.web = 'https://reece.sh'
         self.twitter = '@reecepbcups_'
-        self.code = {
+        self.aquired = {
+            'degrees': [('A.S of Science', "2 years"), ('B.S of IT', "6 months")]
             'frontend': ['HTML', 'CSS', 'JavaScript'],
             'backend': ['Python', 'Java', 'Shell'],
             'database': ['MySQL', 'SQLite3', 'Redis'],
@@ -30,7 +28,6 @@ class Reece:
     def __str__(self):
         return self.name
 
-
 if __name__ == '__main__':
     me = Reece()
 
@@ -39,6 +36,3 @@ if __name__ == '__main__':
 ## Get in touch
 - Twitter: https://twitter.com/reecepbcups_
 - Personal Site: https://www.reece.sh
-
-
-<!-- ⭐️ From [rafnixg](https://github.com/rafnixg)` -->
