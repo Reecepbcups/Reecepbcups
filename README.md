@@ -28,7 +28,7 @@ if __name__ == '__main__':
 
 ```
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reecepbcups&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reecepbcups&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
  
 ## Get in touch
 - Twitter: [https://twitter.com/reecepbcups_](https://twitter.com/reecepbcups_)
