@@ -31,6 +31,6 @@ if __name__ == '__main__':
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reecepbcups&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Get in touch
-- Twitter: https://twitter.com/reecepbcups_
+- Twitter: https://twitter.com/reecepbcups\_
 - Personal Site: https://www.reece.sh
 - Spigot: [https://www.spigot.com/reecepbcups](https://www.spigotmc.org/members/reecescups.539401/)
