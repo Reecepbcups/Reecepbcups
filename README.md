@@ -2,11 +2,6 @@
 <!-- ![](https://raw.githubusercontent.com/reece/rafnixg/master/header.jpeg) -->
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=reecepbcups)
 
-## Python, Java, MySQL, and Shell. 
-I have an A.S. in Information Technology (2 years), and currently working on finishing my Bachelors in IT (6 Months).
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reecepbcups&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ```python
 class Reece:
 
@@ -32,6 +27,8 @@ if __name__ == '__main__':
     me = Reece()
 
 ```
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reecepbcups&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Get in touch
 - Twitter: https://twitter.com/reecepbcups_
