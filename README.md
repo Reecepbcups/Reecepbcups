@@ -13,7 +13,7 @@ class Reece:
         self.aquired = {
             'degrees': [
                 ('A.S of Science', "2 years"), 
-                ('B.S of IT', "4 months")
+                ('B.S of IT', "3 months (92 days)")
              ],
             'frontend': ['HTML', 'CSS', 'JavaScript'],
             'backend': ['Python', 'Java', 'NodeJS', 'Shell'],
