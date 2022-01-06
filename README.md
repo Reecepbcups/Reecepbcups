@@ -15,9 +15,9 @@ class Reece:
                 ('A.S of Science', "2 years"), 
                 ('B.S of IT', "3 months (92 days)")
              ],
-            'frontend': ['HTML', 'CSS', 'JavaScript'],
+            'frontend': ['HTML', 'CSS'],
             'backend': ['Python', 'Java', 'NodeJS', 'Shell'],
-            'database': ['MySQL', 'SQLite3', 'Redis'],
+            'database': ['MySQL', 'MongoDB', 'Redis'],
             'devops': ['Docker', 'Nginx', 'Apache'],
             'tools': ['GIT', 'GitHub'],
             'misc': ['GNU/Linux', 'Security']
