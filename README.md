@@ -19,7 +19,7 @@ class Reece:
             'database': ['MongoDB', 'Redis', 'SQL'],
             'devops': ['Docker', 'Nginx', 'Apache'],
             'tools': ['Git'],
-            'blockchain': ['CosmosSDK', 'Integration @ crafteconomy'],
+            'blockchain': ['CosmosSDK', 'Integration @ crafteconomy.com'],
             'misc': ['GNU/Linux', 'Security']
         }
 
