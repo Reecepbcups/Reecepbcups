@@ -15,11 +15,11 @@ class Reece:
                 ('A.S of Science', "2 years"), 
                 ('B.S of IT', "3 months (92 days)")
              ],
-            'frontend': ['HTML', 'CSS'],
-            'backend': ['Python', 'Java', 'NodeJS', 'Shell'],
-            'database': ['MySQL', 'MongoDB', 'Redis'],
+            'backend': ['Java', 'Python', 'Go', 'Shell'],
+            'database': ['MongoDB', 'Redis', 'SQL'],
             'devops': ['Docker', 'Nginx', 'Apache'],
-            'tools': ['GIT', 'GitHub'],
+            'tools': ['Git'],
+            'blockchain': ['CosmosSDK', '@crafteconomy']
             'misc': ['GNU/Linux', 'Security']
         }
 
