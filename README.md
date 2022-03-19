@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Reece
+### Hey there 👋 I'm Reece
 <!-- ![](https://raw.githubusercontent.com/reece/rafnixg/master/header.jpeg) -->
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=reecepbcups)
 
@@ -7,24 +7,22 @@ class Reece:
 
     def __init__(self):
         self.username = 'reecepbcups'
-        self.name = 'Reece W'
+        self.name = 'Reece Williams'
         self.web = 'https://reece.sh'
         self.twitter = '@reecepbcups_'
+        self.discord = 'Reece#3370'
         self.aquired = {
             'degrees': [
                 ('A.S of Science', "2 years"), 
                 ('B.S of IT', "3 months (92 days)")
              ],
             'backend': ['Java', 'Python', 'Go', 'Shell'],
-            'database': ['MongoDB', 'Redis', 'SQL'],
-            'devops': ['Docker', 'Nginx', 'Apache'],
+            'database': ['MongoDB', 'Redis'],
+            'devops': ['Nginx', 'Apache'],
             'tools': ['Git'],
-            'blockchain': ['CosmosSDK', 'Integration @ crafteconomy.io'],
-            'misc': ['GNU/Linux', 'Security']
+            'blockchain': ['CosmosSDK', 'Integration @ CraftEconomy.io'],
+            'misc': ['Arch Linux', 'Debian Linux(s)' 'Security']
         }
-
-    def __str__(self):
-        return self.name
 
 if __name__ == '__main__':
     me = Reece()
