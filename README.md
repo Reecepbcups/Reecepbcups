@@ -4,28 +4,73 @@
 
 ```python
 class Reece:
+  username = 'reecepbcups'
+  name = 'Reece Williams'
+  web = 'https://reece.sh'
+  twitter = '@reecepbcups_'
+  discord = 'Reece#3370'
+  skills_and_stuff = {
+      'degrees': [
+        ('AAS', "2 years"), 
+        ('B.S, Information Tech', "92 days")
+      ],
+      'languages': {
+        'Python': 2014,
+        'Java': 2017,
+        "Golang": 2021,
+        'Rust (WASM)': 2022, 
+        "Typescript": 2022
+      },
+      'databases': ['MongoDB', 'Redis'],
+      'devops': ["Docker", "Akash", "Nginx"],
+      'blockchain': [
+        "CosmosSDK v46", 
+        "CosmWasm", 
+        "Integration @ CraftEconomy.io"
+      ],
+      'misc': {
+          "linux": ['Arch', "Debian/Ubuntu"],
+          "tools": ['Git'],
+          "other": ['Security', "Project Management"]
+      }
+  }
 
-    def __init__(self):
-        self.username = 'reecepbcups'
-        self.name = 'Reece Williams'
-        self.web = 'https://reece.sh'
-        self.twitter = '@reecepbcups_'
-        self.discord = 'Reece#3370'
-        self.aquired = {
-            'degrees': [
-                ('A.S of Science', "2 years"), 
-                ('B.S of IT', "3 months (92 days)")
-             ],
-            'backend': ['Java', 'Python', 'Go', 'Shell'],
-            'database': ['MongoDB', 'Redis'],
-            'devops': ['Nginx', 'Apache'],
-            'tools': ['Git'],
-            'blockchain': ['CosmosSDK', 'Integration @ CraftEconomy.io'],
-            'misc': ['Arch Linux', 'Debian Linux(s)' 'Security']
-        }
+# Favorite Projects
+craft_economy = {
+  "repo": "notional-labs/craft",
+  "task": [
+    "CosmWasm (marketplace + cw721)",
+    "System Admin (Setup, Security, Scripts)",
+    "Infra: Docker, APIs, MongoDB + Redis",
+    "Project Management (14+ projects, 5-7 Devs)",
+    "Testnet v1 launch (44 validators)",
+    "Game": [
+      "Keplr 2FA",
+      "liquidity Pools",
+      "Blockchain Integration (Java + TS)"
+    ]
+  ]
+}
 
-if __name__ == '__main__':
-    me = Reece()
+cosmos_notifications = {
+    "repo": "reecepbcups/cosmos-governance-bot",
+    "features": [
+      "Twitter & Discord webhook notifications",
+      "Use Docker, crontab, or screen",
+      "Any Cosmos chain & DAODAO contract"
+    ]
+}
+
+minecraft_panel = {
+    "repo": "reecepbcups/minecraft-panel",
+    "features": [
+      "Manage Minecraft servers with no sys admin",
+      "Automatic Firewall",
+      "Server Creator + Auto plugin download",
+      "MongoDB & Redis management panels",
+      "Akash remote docker support"
+    ]
+}
 
 ```
 
