@@ -15,8 +15,8 @@ class Reece:
         ('B.S, Information Tech', "92 days")
       ],
       'hackathons': [
-        ('HackJuno', "2,475JUNO ($13k USD)"), 
-        ('Hack Canto', "N/A")
+        ('HackJuno', "2,473JUNO ($13k USD)"), 
+        ('Hack Canto', "N/A (Oct1+)")
       ],
       'languages': {
         'Python': 2014,
