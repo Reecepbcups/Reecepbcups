@@ -15,8 +15,8 @@ class Reece:
         ('B.S, Information Tech', "92 days")
       ],
       'hackathons': [
-        ('HackJuno', "2,473JUNO ($13k USD)"), 
-        ('Hack Canto', "N/A (Oct1+)")
+        ('HackJuno', "2,473JUNO ($13k USD) Sept '22 "), 
+        ('Canto', "N/A (Oct1+)")
       ],
       'languages': {
         'Python': 2014,
@@ -30,12 +30,12 @@ class Reece:
       'blockchain': [
         "CosmosSDK v46", 
         "CosmWasm", 
-        "Integration @ CraftEconomy.io"
+        "Minecraft Java Integration -> Tendermint"
       ],
       'misc': {
-          "linux": ['Arch', "Debian/Ubuntu"],
+          "linux": ['Arch', 'Debian/Ubuntu'],
           "tools": ['Git'],
-          "other": ['Security', "Project Management"]
+          "other": ['Security', 'Project Management']
       }
   }
 
