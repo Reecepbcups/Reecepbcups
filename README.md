@@ -4,32 +4,30 @@
 
 ```python
 class Reece:
-  username = 'reecepbcups'
-  name = 'Reece Williams'
+  username = 'reecepbcups'  
   web = 'https://reece.sh'
   twitter = '@reecepbcups_'
   discord = 'Reece#3370'
-  skills_and_stuff = {
+  information = {
+      'hackathons': [
+        ('Canto', "XXXXCanto ($XXk USD) Feb '23"),       
+        ('HackJuno', "2,473JUNO ($13k USD) Sept '22"),
+      ],
       'degrees': [
         ('AAS', "2 years"), 
         ('B.S, Information Tech', "92 days")
+      ],      
+      'languages': [
+        'Python', 'Java'
+        'Golang', 'Rust' 
+        'Typescript', 'bash'
       ],
-      'hackathons': [
-        ('HackJuno', "2,473JUNO ($13k USD) Sept '22"),         
-      ],
-      'languages': {
-        'Python': 2014,
-        'Java': 2017,
-        "Golang": 2021,
-        'Rust (WASM)': 2022, 
-        "Typescript": 2022
-      },
       'databases': ['MongoDB', 'Redis'],
-      'devops': ["Docker", "Akash", "Nginx"],
+      'devops': ["Docker", "Akash", "Nginx", "Security/Pen-testing"],
       'blockchain': [
-        "CosmosSDK v46", 
+        "CosmosSDK v45 & 46", 
         "CosmWasm", 
-        "Minecraft Java Integration -> Tendermint"
+        "Minecraft Java Integration -> CosmosSDK"
       ],
       'misc': {
           "linux": ['Arch', 'Debian/Ubuntu'],
@@ -40,7 +38,7 @@ class Reece:
 
 # Favorite Projects
 craft_economy = {
-  "repo": "notional-labs/craft",
+  "repo": "reecepbcups/craft",
   "task": [
     "CosmWasm (marketplace + cw721)",
     "System Admin (Setup, Security, Scripts)",
