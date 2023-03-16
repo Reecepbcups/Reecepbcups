@@ -10,7 +10,7 @@ class Reece:
   discord = 'Reece#3370'
   information = {
       'hackathons': [
-        ('Canto', "XXXXCanto ($XXk USD) Feb '23"),       
+        ('Canto', "2,670CANTO ($800 USD) Feb '23"),       
         ('HackJuno', "2,473JUNO ($13k USD) Sept '22"),
       ],
       'degrees': [
