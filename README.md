@@ -1,6 +1,4 @@
 ### Hey there 👋 I'm Reece
-<!-- ![](https://raw.githubusercontent.com/reece/rafnixg/master/header.jpeg) -->
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=reecepbcups)
 
 ```python
 class Reece:
