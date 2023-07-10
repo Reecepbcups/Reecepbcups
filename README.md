@@ -5,7 +5,7 @@ class Reece:
   username = 'reecepbcups'  
   web = 'https://reece.sh'
   twitter = '@reecepbcups_'
-  discord = 'Reece#3370'
+  discord = 'reecepbcups'
   information = {
       'hackathons': [
         ('Canto', "2,670CANTO ($800 USD) Feb '23"),       
