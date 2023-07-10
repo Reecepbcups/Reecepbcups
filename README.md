@@ -20,16 +20,16 @@ class Reece:
         'Golang', 'Rust' 
         'Typescript', 'bash'
       ],
-      'databases': ['MongoDB', 'Redis'],
-      'devops': ["Docker", "Akash", "Nginx", "Security/Pen-testing"],
+      'databases': ['MySQL', 'MongoDB', 'Redis'],
+      'devops': ["Docker", "Akash", "Nginx"],
       'blockchain': [
-        "CosmosSDK v45 & 46", 
+        "CosmosSDK v45 - v47",
+        "Indexing"
         "CosmWasm", 
         "Minecraft Java Integration -> CosmosSDK"
       ],
       'misc': {
-          "linux": ['Arch', 'Debian/Ubuntu'],
-          "tools": ['Git'],
+          "linux": ['Arch', 'Debian/Ubuntu'],          
           "other": ['Security', 'Project Management']
       }
   }
@@ -51,23 +51,31 @@ craft_economy = {
   ]
 }
 
-cosmos_notifications = {
-    "repo": "reecepbcups/cosmos-governance-bot",
+local_interchain = {
+    "repo": "reecepbcups/local-interchain",
     "features": [
-      "Twitter & Discord webhook notifications",
-      "Use Docker, crontab, or screen",
-      "Any Cosmos chain & DAODAO contract"
+      "Easily configure an IBC enviroment",
+      "Wasm + Windows, Linux, and Mac Support",
+      "Use any language to control chains"
     ]
 }
 
-minecraft_panel = {
-    "repo": "reecepbcups/minecraft-panel",
+cosmos_cache = {
+    "repo": "reecepbcups/cosmos-cache",
     "features": [
-      "Manage Minecraft servers with no sys admin",
-      "Automatic Firewall",
-      "Server Creator + Auto plugin download",
-      "MongoDB & Redis management panels",
-      "Akash remote docker support"
+      "Cached Cosmos RPC & API request",
+      "Pattern matched cache length config",
+      "Over 3 billion request served (Jul '23)",
+      "Swagger / OpenAPI support",
+    ]
+}
+
+interchain_indexer = {
+    "repo": "reecepbcups/interchain-indexer",
+    "features": [
+      "Index @ 2m blocks/hour (i7-7700)",
+      "Scripting analysis examples",
+      "Future: mock archive nodes",
     ]
 }
 
