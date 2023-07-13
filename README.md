@@ -83,6 +83,7 @@ interchain_indexer = {
 
 ![Reece's GitHub stats](https://github-readme-stats.vercel.app/api?username=reecepbcups&show_icons=true&theme=radical)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Reecepbcups)](https://git.io/streak-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reecepbcups&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
  
