@@ -7,10 +7,6 @@ class Reece:
   twitter = '@reecepbcups_'
   discord = 'reecepbcups'
   information = {
-      'hackathons': [
-        ('Canto', "2,670CANTO ($800 USD) Feb '23"),       
-        ('HackJuno', "2,473JUNO ($13k USD) Sept '22"),
-      ],
       'degrees': [
         ('AAS', "2 years"), 
         ('B.S, Information Tech', "92 days")
