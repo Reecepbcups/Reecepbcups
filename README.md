@@ -19,7 +19,7 @@ class Reece:
       'databases': ['MySQL', 'MongoDB', 'Redis'],
       'devops': ["Docker", "Akash", "Nginx"],
       'blockchain': [
-        "CosmosSDK v45 - v47",
+        "CosmosSDK v45+",
         "Indexing"
         "CosmWasm", 
         "Minecraft Java Integration -> CosmosSDK"
