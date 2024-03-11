@@ -31,6 +31,15 @@ class Reece:
   }
 
 # Favorite Projects
+spawn = {
+    "repo": "rollchains/spawn",
+    "features": [
+      "1 command launch of SDK chains",
+      "1 command local testnets with IBC",
+      "module scaffolding",
+    ]
+}
+
 craft_economy = {
   "repo": "reecepbcups/craft",
   "task": [
@@ -65,16 +74,6 @@ cosmos_cache = {
       "Swagger / OpenAPI support",
     ]
 }
-
-interchain_indexer = {
-    "repo": "reecepbcups/interchain-indexer",
-    "features": [
-      "Index @ 2m blocks/hour (i7-7700)",
-      "Scripting analysis examples",
-      "Future: mock archive nodes",
-    ]
-}
-
 ```
 
 ![Reece's GitHub stats](https://github-readme-stats.vercel.app/api?username=reecepbcups&show_icons=true&theme=radical)
