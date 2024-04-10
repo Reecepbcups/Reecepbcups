@@ -6,6 +6,7 @@ class Reece:
   web = 'https://reece.sh'
   twitter = '@reecepbcups_'
   discord = 'reecepbcups'
+  work_log = 'https://work.reece.sh'
   information = {
       'degrees': [
         ('AAS', "2 years"), 
@@ -14,7 +15,7 @@ class Reece:
       'languages': [
         'Python', 'Java'
         'Golang', 'Rust' 
-        'Typescript', 'bash'
+        'Typescript', 'Bash'
       ],
       'databases': ['MySQL', 'MongoDB', 'Redis'],
       'devops': ["Docker", "Akash", "Nginx"],
@@ -70,9 +71,10 @@ cosmos_cache = {
     "features": [
       "Cached Cosmos RPC & API request",
       "Pattern matched cache length config",
-      "Over 3 billion request served (Jul '23)",
-      "Swagger / OpenAPI support",
-    ]
+      "18+ billion request served (Apr '24)",
+      "Swagger / OpenAPI support",      
+    ],
+    "2x site performance": "https://x.com/NotRizbe/status/1756553801790636360"
 }
 ```
 
