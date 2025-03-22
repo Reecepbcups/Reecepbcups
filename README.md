@@ -30,6 +30,9 @@ class Reece:
           "other": ['Security', 'Project Management']
       }
   }
+```
+
+<!--
 
 # Favorite Projects
 spawn = {
@@ -38,6 +41,14 @@ spawn = {
       "1 command launch of SDK chains",
       "1 command local testnets with IBC",
       "module scaffolding",
+    ]
+}
+
+docci = {
+    "repo": "reecepbcups/docci",
+    "features": [
+      "Convert your docs to Integration test",
+      "No code",
     ]
 }
 
@@ -76,15 +87,8 @@ cosmos_cache = {
     ],
     "2x site performance": "https://x.com/NotRizbe/status/1756553801790636360"
 }
-```
+-->
 
-![Reece's GitHub stats](https://github-readme-stats.vercel.app/api?username=reecepbcups&show_icons=true&theme=radical)
+<!-- ![Reece's GitHub stats](https://github-readme-stats.vercel.app/api?username=reecepbcups&show_icons=true&theme=radical) -->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Reecepbcups)](https://git.io/streak-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reecepbcups&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
- 
-## Get in touch
-- Twitter: [https://twitter.com/reecepbcups_](https://twitter.com/reecepbcups_)
-- Personal Site: https://www.reece.sh
-- Spigot: [https://www.spigot.com/reecepbcups](https://www.spigotmc.org/members/reecescups.539401/)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Reecepbcups)](https://git.io/streak-stats)  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reecepbcups&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
